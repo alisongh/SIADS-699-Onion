@@ -37,3 +37,11 @@ These are publicly accessible datasets. In general, they include texts of news a
 * Current limitations in the literature - this is an ongoing area of research
 * It is possible that we will not have enough labeled satirical data and/or that satirical articles will skew towards certain topics.
 
+**Timeline**
+* Oct 10 Brainstorming and Topic, Data collecting, Proposal submission
+* Oct 24 Data preprocessing
+* Nov 7 Data processing & EDA
+* Nov 28 Modeling 
+* Dec 12 Report draft
+* Dec 16 Final report
+
