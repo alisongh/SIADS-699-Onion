@@ -2,7 +2,7 @@
 ## SIADS 699 Capstone, University of Michigan, Ann Arbor
 ### Subject: Identifying accurate news vs fake news/misinformation vs satirical news
 
-Team members: Christine Gregg, Liwen Alison Huang, Ali Tobah 
+Team members: Christine Gregg, Liwen Huang, Ali Tobah 
 
 #### Questions
 * Can a model be trained to differentiate fake news from real news based on the language and topic of the article?
