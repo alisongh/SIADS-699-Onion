@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alisongh/SIADS-699-Onion/blob/christine-readme-updates">
+  <a href="https://cloud.datapane.com/apps/O7vrMg7/when-fact-is-false-and-false-is-funny-automated-detection-of-fake-news-and-satire/">
     <img src="images/team_onion_banner.png" alt="Logo" width="300" height="165">
   </a>
 </div>
@@ -19,6 +19,8 @@
 False information comes in different forms, and for many reasons. In the study of social media, Big Data, and the Internet, three names for false information are common: misinformation, disinformation and fake news. In this study, we use ‘fake news,’ because we focus on false information in news articles without regard for intent.
 
 For our purposes, we are considering a simplified concept of the “universe of news” where there are only three categories: real news, fake news, and satirical news. Our focus is on identifying the features that have the greatest impact on differentiating these types of news with the hope of making the distinction between them more clear for everyday news readers.
+
+You can read our full project report here on [DataPane](https://cloud.datapane.com/apps/O7vrMg7/when-fact-is-false-and-false-is-funny-automated-detection-of-fake-news-and-satire/).
 
 
 <!-- GETTING STARTED -->
@@ -39,7 +41,7 @@ For our purposes, we are considering a simplified concept of the “universe of 
 <!-- USAGE EXAMPLES -->
 ## Usage & Notebook Dependencies
 
-Three models were created during the course of this project:
+Three binary comparisons were modeled during the course of this project:
 - Fake vs Real News
 - Real vs Satire News
 - Satire vs Fake News
