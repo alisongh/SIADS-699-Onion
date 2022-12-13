@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://cloud.datapane.com/apps/O7vrMg7/when-fact-is-false-and-false-is-funny-automated-detection-of-fake-news-and-satire/">
+  <a href="https://cloud.datapane.com/apps/aAMaqoA/when-fact-is-false-and-false-is-funny-automated-detection-of-fake-and-satire-news/">
     <img src="images/team_onion_banner.png" alt="Logo" width="300" height="165">
   </a>
 </div>
@@ -20,7 +20,7 @@ False information comes in different forms, and for many reasons. In the study o
 
 For our purposes, we are considering a simplified concept of the “universe of news” where there are only three categories: real news, fake news, and satirical news. Our focus is on identifying the features that have the greatest impact on differentiating these types of news with the hope of making the distinction between them more clear for everyday news readers.
 
-You can read our full project report here on [DataPane](https://cloud.datapane.com/apps/O7vrMg7/when-fact-is-false-and-false-is-funny-automated-detection-of-fake-news-and-satire/).
+You can read our full project report here on [DataPane](https://cloud.datapane.com/apps/aAMaqoA/when-fact-is-false-and-false-is-funny-automated-detection-of-fake-and-satire-news/).
 
 
 <!-- GETTING STARTED -->
