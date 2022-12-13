@@ -61,7 +61,7 @@ flowchart TB
 All data used throughout this project is open source and available from their respective sources:
 - Fake vs Real
   - Paper: https://doi.org/10.48550/ARXIV.1708.07104
-  - Dataset: https://www.kaggle.com/datasets/sumanthvrao/fakenewsdataset
+  - Dataset: https://web.eecs.umich.edu/~mihalcea/downloads/fakeNewsDatasets.zip
 - Real vs Satire
   - Paper: https://aclanthology.org/D17-1211/
   - Dataset: https://data.mendeley.com/v1/datasets/hx3rzw5dwt/draft
